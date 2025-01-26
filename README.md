@@ -61,7 +61,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=psych4cker&theme=dark" alt="GitHub Streak" /></a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=psych4cker&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="psych4cker's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psych4cker&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="psych4cker's GitHub Stats" />
 </div>
 
 ###
